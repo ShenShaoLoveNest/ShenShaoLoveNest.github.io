@@ -1,22 +1,3 @@
-![](http://ww1.sinaimg.cn/large/005yqb1Zly1g0n18e6qehj31jo0v8wj0.jpg)
-
-[![Build Status](https://travis-ci.org/superZhouDaLu/superzhoudalu.github.io.svg?branch=master)](https://travis-ci.org/superZhouDaLu/superzhoudalu.github.io)
-[![GitHub issues](https://img.shields.io/github/issues/superZhouDaLu/superzhoudalu.github.io.svg?style=flat)](https://github.com/superZhouDaLu/superzhoudalu.github.io/issues)
-[![License MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/superZhouDaLu/superzhoudalu.github.io/blob/master/LICENSE)
-[![](https://img.shields.io/github/stars/superZhouDaLu/superzhoudalu.github.io.svg?style=social&label=Star)](https://github.com/superZhouDaLu/superzhoudalu.github.io)
-[![](https://img.shields.io/github/forks/superZhouDaLu/superzhoudalu.github.io.svg?style=social&label=Fork)](https://github.com/superZhouDaLu/superzhoudalu.github.io)
-
-博客的搭建教程修改自 [qiubaiying](https://github.com/qiubaiying/qiubaiying.github.io)
-
->
-### [查看博客戳这里 👆](https://aigq.me)
-
->
-### 支持
-* 你可以自由的 fork。如果你能将主题作者和 Github 的地址保留在你的页面底部，我将非常感谢你。
-* 如果你喜欢我的这个博客模板，请在这个 repository 点个赞——右上角 ***star*** 一下。
-
->
 ## 使用
 * 开始
     * [起步](#起步)
